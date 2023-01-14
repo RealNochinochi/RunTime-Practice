@@ -1,4 +1,4 @@
-package Lesson7;
+package Lesson7.Task1;
 
 public class Dragon extends Monster{
     boolean frighten(int d) {

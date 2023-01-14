@@ -1,4 +1,4 @@
-package Lesson7;
+package Lesson7.Task1;
 
 public class Monster {
     boolean frighten(int d) {
@@ -10,7 +10,7 @@ public class Monster {
 //        git add README.md
 //        git commit -m "first commit"
 //        git branch -M main
-//        git remote add origin https://github.com/RealNochinochi/polymorphism_practice.git
+//        git remote add origin https://github.com/RealNochinochi/polymorphism---practice.git
 //        git push -u origin main
 //
 //    git config --global user.name "John Doe"
