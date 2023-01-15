@@ -1,6 +1,4 @@
-package Lesson10.HM;
-
-public class Task1 {
+public class AbstractClassesInterfaces {
     public class Of76 extends Clowns {
         public static void main(String[] args) {
             Nose[] i = new Nose[3];
