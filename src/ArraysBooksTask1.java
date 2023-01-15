@@ -1,4 +1,4 @@
-public class ArraysBooksTask2 {
+public class ArraysBooksTask1 {
     public static void main(String[] args) {
         Books[] myBooks = new Books[3];
         int x = 0;
